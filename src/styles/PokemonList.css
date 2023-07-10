@@ -1,0 +1,20 @@
+.pokemons-div{
+    text-align: center;
+    border: 1px solid;
+    margin: 50px;
+    display: inline-block;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
+.pokemons-div2{
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid;
+    width: 500px;
+}
+
+*{
+    text-align: center;
+}
